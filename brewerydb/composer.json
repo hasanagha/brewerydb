@@ -1,0 +1,8 @@
+{
+    "name": "brewerydb/brewerydb",
+    "autoload": {
+        "psr-0" : {
+            "brewerydb\\BreweryDB" : "src"
+        }
+    }
+}
